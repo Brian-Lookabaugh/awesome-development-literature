@@ -17,6 +17,7 @@
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
 - [Language Policy and Human Development (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/language-policy-and-human-development/F0464F77F597CA8FA466758650718018)
+- [The Transforming Power of Democracy: Regime Type and the Distribution of Electricity (2009)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/transforming-power-of-democracy-regime-type-and-the-distribution-of-electricity/0E6835BDC32DFD628B2C2537CE7550EF)
 
 # Alternatives to the State
 
