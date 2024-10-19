@@ -10,6 +10,7 @@
 - [UN Peacekeeping and the Rule of Law (2021)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/un-peacekeeping-and-the-rule-of-law/0ACAA5D97E5E1A49B9EC1BE20F2171F2)
 - [Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/elite-competition-and-state-capacity-development-theory-and-evidence-from-postrevolutionary-mexico/0E249A6EBAAD3D20A464214D1EC0934C)
 - [Nation-Building through War (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/nationbuilding-through-war/B7E2064B044A71846F4847509710587B)
+- [Different Paths to the Modern State in Europe: The Interaction Between Warfare, Economic Structure, and Political Regime (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
 
 # Ideology
 
@@ -21,5 +22,6 @@
 
 # Statebuilding Policy
 - [Establishing the Rule of Law in Weak and War-torn States: Evidence from a Field Experiment with the Liberian National Police (2019)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/establishing-the-rule-of-law-in-weak-and-wartorn-states-evidence-from-a-field-experiment-with-the-liberian-national-police/ECC84887F848EBABA2185D020A85DC9E)
+- [How to Promote Order and Property Rights under Weak Rule of Law? An Experiment in Changing Dispute Resolution Behavior through Community Education (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-promote-order-and-property-rights-under-weak-rule-of-law-an-experiment-in-changing-dispute-resolution-behavior-through-community-education/63D2C071E48C25A2F5861D4248E59A90)
 
 # State Failure
