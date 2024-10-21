@@ -11,6 +11,7 @@
 - [Elite Competition and State Capacity Development: Theory and Evidence from Post-Revolutionary Mexico (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/elite-competition-and-state-capacity-development-theory-and-evidence-from-postrevolutionary-mexico/0E249A6EBAAD3D20A464214D1EC0934C)
 - [Nation-Building through War (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/nationbuilding-through-war/B7E2064B044A71846F4847509710587B)
 - [Different Paths to the Modern State in Europe: The Interaction Between Warfare, Economic Structure, and Political Regime (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
+- [Bringing War Back in: Victory and State Formation in Latin America (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12552)
 
 # Ideology
 
@@ -18,6 +19,9 @@
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
 - [Language Policy and Human Development (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/language-policy-and-human-development/F0464F77F597CA8FA466758650718018)
 - [The Transforming Power of Democracy: Regime Type and the Distribution of Electricity (2009)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/transforming-power-of-democracy-regime-type-and-the-distribution-of-electricity/0E6835BDC32DFD628B2C2537CE7550EF)
+- [Aid, Attitudes, and Insurgency: Evidence from Development Projects in Northern Afghanistan (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12778)
+- [UN Peacekeeping and Households' Well-Being in Civil Wars (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12644)
+- [Winning Hearts and Minds in Civil Wars: Governance, Leadership Change, and Support for Violent Groups in Iraq (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12527)
 
 # Alternatives to the State
 
