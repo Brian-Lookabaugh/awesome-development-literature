@@ -23,6 +23,7 @@
 - [Aid, Attitudes, and Insurgency: Evidence from Development Projects in Northern Afghanistan (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12778)
 - [UN Peacekeeping and Households' Well-Being in Civil Wars (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12644)
 - [Winning Hearts and Minds in Civil Wars: Governance, Leadership Change, and Support for Violent Groups in Iraq (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12527)
+- [Effective Foreign Aid Following Civil War: The Nonstrategic-Desperation Hypothesis (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00552.x)
 
 # Alternatives to the State
 
