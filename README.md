@@ -12,6 +12,7 @@
 - [Nation-Building through War (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/nationbuilding-through-war/B7E2064B044A71846F4847509710587B)
 - [Different Paths to the Modern State in Europe: The Interaction Between Warfare, Economic Structure, and Political Regime (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
 - [Bringing War Back in: Victory and State Formation in Latin America (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12552)
+- [Economic Foundations of the Territorial State System (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12379)
 
 # Ideology
 
