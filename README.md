@@ -13,6 +13,7 @@
 - [Different Paths to the Modern State in Europe: The Interaction Between Warfare, Economic Structure, and Political Regime (2013)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/different-paths-to-the-modern-state-in-europe-the-interaction-between-warfare-economic-structure-and-political-regime/81A71D2950D41552F5FB69FF71917AD6)
 - [Bringing War Back in: Victory and State Formation in Latin America (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12552)
 - [Economic Foundations of the Territorial State System (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12379)
+- [War, Rivalry, and State Building in Latin America (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2005.00134.x)
 
 # Ideology
 
@@ -24,6 +25,8 @@
 - [UN Peacekeeping and Households' Well-Being in Civil Wars (2022)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12644)
 - [Winning Hearts and Minds in Civil Wars: Governance, Leadership Change, and Support for Violent Groups in Iraq (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12527)
 - [Effective Foreign Aid Following Civil War: The Nonstrategic-Desperation Hypothesis (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00552.x)
+- [Democracy and Economic Growth: A Meta-Analysis (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2007.00299.x)
+- [Is Democracy Good for the Poor? (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00220.x)
 
 # Alternatives to the State
 
