@@ -27,6 +27,7 @@
 - [Effective Foreign Aid Following Civil War: The Nonstrategic-Desperation Hypothesis (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00552.x)
 - [Democracy and Economic Growth: A Meta-Analysis (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2007.00299.x)
 - [Is Democracy Good for the Poor? (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00220.x)
+- [Civil Wars and Economic Growth: Spatial Dispersion (2004)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2004.00061.x)
 
 # Alternatives to the State
 
