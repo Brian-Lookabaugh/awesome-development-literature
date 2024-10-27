@@ -14,8 +14,8 @@
 - [Bringing War Back in: Victory and State Formation in Latin America (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12552)
 - [Economic Foundations of the Territorial State System (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12379)
 - [War, Rivalry, and State Building in Latin America (2005)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2005.00134.x)
-
-# Ideology
+- [The Missionary Roots of Nationalism: Evidence from China (2022)](https://www.journals.uchicago.edu/doi/10.1086/716972)
+- [US Patronage, State Capacity, and Civil Conflict (2022)](https://www.journals.uchicago.edu/doi/10.1086/715598)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
