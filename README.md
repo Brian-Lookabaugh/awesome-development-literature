@@ -30,6 +30,9 @@
 - [Democracy and Economic Growth: A Meta-Analysis (2008)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2007.00299.x)
 - [Is Democracy Good for the Poor? (2006)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2006.00220.x)
 - [Civil Wars and Economic Growth: Spatial Dispersion (2004)](https://onlinelibrary.wiley.com/doi/10.1111/j.0092-5853.2004.00061.x)
+- [What Democracy Does (and Doesn’t Do) for Basic Services: School Fees, School Inputs, and African Elections (2014)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613001254)
+- [Democracy and Human Development (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611001113)
+- [Foreign Aid Effectiveness and the Strategic Goals of Donor Governments (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000204)
 
 # Alternatives to the State
 
