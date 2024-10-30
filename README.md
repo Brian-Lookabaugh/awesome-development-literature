@@ -33,6 +33,11 @@
 - [What Democracy Does (and Doesn’t Do) for Basic Services: School Fees, School Inputs, and African Elections (2014)](https://www.journals.uchicago.edu/doi/10.1017/S0022381613001254)
 - [Democracy and Human Development (2012)](https://www.journals.uchicago.edu/doi/10.1017/S0022381611001113)
 - [Foreign Aid Effectiveness and the Strategic Goals of Donor Governments (2010)](https://www.journals.uchicago.edu/doi/10.1017/S0022381610000204)
+- [Growth and Governance: Models, Measures, and Mechanisms (2007)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2007.00549.x)
+- [Growth and Governance: A Reply (2007)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2007.00550.x)
+- [Growth and Governance: A Defense (2007)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2007.00551.x)
+- [Growth and Governance: A Rejoinder (2007)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2007.00552.x)
+- [Civil War Destruction and the Prospects for Economic Growth (2005)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2005.00309.x)
 
 # Alternatives to the State
 
