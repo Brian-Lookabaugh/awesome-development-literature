@@ -39,6 +39,8 @@
 - [Growth and Governance: A Rejoinder (2007)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2007.00552.x)
 - [Civil War Destruction and the Prospects for Economic Growth (2005)](https://www.journals.uchicago.edu/doi/10.1111/j.1468-2508.2005.00309.x)
 - [Peacekeeping and development in fragile states: Micro-level evidence from Liberia (2021)](https://journals.sagepub.com/doi/abs/10.1177/0022343320912813)
+- [Causality between terrorism and economic growth (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022343312445650)
+- [The adverse effect of transnational and domestic terrorism on growth in Africa (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022343310395798)
 
 # Alternatives to the State
 
