@@ -47,5 +47,6 @@
 # Statebuilding Policy
 - [Establishing the Rule of Law in Weak and War-torn States: Evidence from a Field Experiment with the Liberian National Police (2019)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/establishing-the-rule-of-law-in-weak-and-wartorn-states-evidence-from-a-field-experiment-with-the-liberian-national-police/ECC84887F848EBABA2185D020A85DC9E)
 - [How to Promote Order and Property Rights under Weak Rule of Law? An Experiment in Changing Dispute Resolution Behavior through Community Education (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-promote-order-and-property-rights-under-weak-rule-of-law-an-experiment-in-changing-dispute-resolution-behavior-through-community-education/63D2C071E48C25A2F5861D4248E59A90)
+- [Nation-Building and Integration Policy in the Philippines (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307075122)
 
 # State Failure
