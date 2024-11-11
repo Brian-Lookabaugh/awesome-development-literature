@@ -19,6 +19,9 @@
 - [Birth Legacies, State Making, and War (2016)](https://www.journals.uchicago.edu/doi/10.1086/684631)
 - [Does Immigration Induce Terrorism? (2016)](https://www.journals.uchicago.edu/doi/10.1086/684679)
 - [Birth Legacies and State Failure (2022)](https://journals.sagepub.com/doi/abs/10.1177/00220027221111746)
+- [The Violent Consequences of the Nation: Nationalism and the Initiation of Interstate War (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002712438354)
+- [Social Revolution, the State, and War: How Revolutions Affect War-Making Capacity and Interstate War Outcomes (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002711431796)
+- [Outside-In: The Effects of External Threat on State Centralization (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710370135)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
