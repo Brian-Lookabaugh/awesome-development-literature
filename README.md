@@ -22,6 +22,7 @@
 - [The Violent Consequences of the Nation: Nationalism and the Initiation of Interstate War (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002712438354)
 - [Social Revolution, the State, and War: How Revolutions Affect War-Making Capacity and Interstate War Outcomes (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002711431796)
 - [Outside-In: The Effects of External Threat on State Centralization (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710370135)
+- [Diamonds, Blood, and Taxes: A Revenue-Centered Framework for Explaining Political Order (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022002705277796)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -46,6 +47,7 @@
 - [Causality between terrorism and economic growth (2013)](https://journals.sagepub.com/doi/abs/10.1177/0022343312445650)
 - [The adverse effect of transnational and domestic terrorism on growth in Africa (2011)](https://journals.sagepub.com/doi/abs/10.1177/0022343310395798)
 - [Third-party Intervention in Civil Wars and the Prospects for Postwar Development (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715590873)
+- [Democracy under the Gun Understanding Postconflict Economic Recovery (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002708326745)
 
 # Alternatives to the State
 
