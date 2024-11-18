@@ -49,6 +49,7 @@
 - [Third-party Intervention in Civil Wars and the Prospects for Postwar Development (2017)](https://journals.sagepub.com/doi/abs/10.1177/0022002715590873)
 - [Democracy under the Gun Understanding Postconflict Economic Recovery (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002708326745)
 - [The Wealth and Size of Nations (2000)](https://journals.sagepub.com/doi/abs/10.1177/0022002700044006010)
+- [Why nations fail: defense spending, fighting commitment and, inter-nations-prosperity-poverty-gap (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.925323)
 
 # Alternatives to the State
 
