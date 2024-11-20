@@ -23,6 +23,8 @@
 - [Social Revolution, the State, and War: How Revolutions Affect War-Making Capacity and Interstate War Outcomes (2012)](https://journals.sagepub.com/doi/abs/10.1177/0022002711431796)
 - [Outside-In: The Effects of External Threat on State Centralization (2010)](https://journals.sagepub.com/doi/abs/10.1177/0022002710370135)
 - [Diamonds, Blood, and Taxes: A Revenue-Centered Framework for Explaining Political Order (2005)](https://journals.sagepub.com/doi/abs/10.1177/0022002705277796)
+- [State-making at Gunpoint: The Role of Violent Conflict in Somaliland’s March to Statehood (2017)](https://www.tandfonline.com/doi/full/10.1080/13698249.2017.1343411)
+- [Civil Wars and Contemporary State Building: Rebellion, Conflict Duration, and Lootable Resources (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059568)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
