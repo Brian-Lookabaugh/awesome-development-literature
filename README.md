@@ -27,6 +27,7 @@
 - [Civil Wars and Contemporary State Building: Rebellion, Conflict Duration, and Lootable Resources (2015)](https://www.tandfonline.com/doi/full/10.1080/13698249.2015.1059568)
 - [State Capacity in Postconflict Settings: Explaining Criminal Violence in El Salvador and Guatemala (2010)](https://www.tandfonline.com/doi/full/10.1080/13698249.2010.534630)
 - [The State in Times of Statebuilding (2008)](https://www.tandfonline.com/doi/full/10.1080/13698240802354466)
+- [Relative political capacity: A dataset to evaluate the performance of nations, 1960–2018 (2023)](https://journals.sagepub.com/doi/abs/10.1177/07388942221145352)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
