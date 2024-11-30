@@ -29,6 +29,11 @@
 - [The State in Times of Statebuilding (2008)](https://www.tandfonline.com/doi/full/10.1080/13698240802354466)
 - [Relative political capacity: A dataset to evaluate the performance of nations, 1960–2018 (2023)](https://journals.sagepub.com/doi/abs/10.1177/07388942221145352)
 - [When aid builds states: party dominance and the effects of foreign aid on tax collection after civil war (2020)](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1735383)
+- [Complexities of State-Building in Somaliland (2024)](https://academic.oup.com/isq/article-abstract/68/2/sqae053/7644220?redirectedFrom=fulltext)
+- [Establishing the Rule of Law in Weak and War-torn States: Evidence from a Field Experiment with the Liberian National Police (2019)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/establishing-the-rule-of-law-in-weak-and-wartorn-states-evidence-from-a-field-experiment-with-the-liberian-national-police/ECC84887F848EBABA2185D020A85DC9E)
+- [How to Promote Order and Property Rights under Weak Rule of Law? An Experiment in Changing Dispute Resolution Behavior through Community Education (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-promote-order-and-property-rights-under-weak-rule-of-law-an-experiment-in-changing-dispute-resolution-behavior-through-community-education/63D2C071E48C25A2F5861D4248E59A90)
+- [Nation-Building and Integration Policy in the Philippines (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307075122)
+- [Achieving Sustainable Development Goal 17? An Empirical Investigation of the Effectiveness of Aid Given to Boost Developing Countries’ Tax Revenue and Capacity (2020)](https://academic.oup.com/isq/article-abstract/64/4/991/5905234?redirectedFrom=fulltext)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -58,8 +63,3 @@
 - [Why nations fail: defense spending, fighting commitment and, inter-nations-prosperity-poverty-gap (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.925323)
 
 # Alternatives to the State
-
-# Statebuilding Policy
-- [Establishing the Rule of Law in Weak and War-torn States: Evidence from a Field Experiment with the Liberian National Police (2019)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/establishing-the-rule-of-law-in-weak-and-wartorn-states-evidence-from-a-field-experiment-with-the-liberian-national-police/ECC84887F848EBABA2185D020A85DC9E)
-- [How to Promote Order and Property Rights under Weak Rule of Law? An Experiment in Changing Dispute Resolution Behavior through Community Education (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-promote-order-and-property-rights-under-weak-rule-of-law-an-experiment-in-changing-dispute-resolution-behavior-through-community-education/63D2C071E48C25A2F5861D4248E59A90)
-- [Nation-Building and Integration Policy in the Philippines (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307075122)
