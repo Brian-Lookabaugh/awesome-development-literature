@@ -34,6 +34,8 @@
 - [How to Promote Order and Property Rights under Weak Rule of Law? An Experiment in Changing Dispute Resolution Behavior through Community Education (2014)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-promote-order-and-property-rights-under-weak-rule-of-law-an-experiment-in-changing-dispute-resolution-behavior-through-community-education/63D2C071E48C25A2F5861D4248E59A90)
 - [Nation-Building and Integration Policy in the Philippines (2007)](https://journals.sagepub.com/doi/abs/10.1177/0022343307075122)
 - [Achieving Sustainable Development Goal 17? An Empirical Investigation of the Effectiveness of Aid Given to Boost Developing Countries’ Tax Revenue and Capacity (2020)](https://academic.oup.com/isq/article-abstract/64/4/991/5905234?redirectedFrom=fulltext)
+- [What Were the Consequences of Decolonization? (2019)](https://academic.oup.com/isq/article-abstract/63/2/406/5377578?redirectedFrom=fulltext)
+- [Power Sharing and the Rule of Law in the Aftermath of Civil War (2019)](https://academic.oup.com/isq/article/63/3/641/5490304)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -61,5 +63,7 @@
 - [Democracy under the Gun Understanding Postconflict Economic Recovery (2009)](https://journals.sagepub.com/doi/abs/10.1177/0022002708326745)
 - [The Wealth and Size of Nations (2000)](https://journals.sagepub.com/doi/abs/10.1177/0022002700044006010)
 - [Why nations fail: defense spending, fighting commitment and, inter-nations-prosperity-poverty-gap (2015)](https://www.tandfonline.com/doi/full/10.1080/10242694.2014.925323)
+- [What Were the Consequences of Decolonization? (2019)](https://academic.oup.com/isq/article-abstract/63/2/406/5377578?redirectedFrom=fulltext)
+- [Wage Bargaining, Inequality, and the Dutch Disease (2016)](https://academic.oup.com/isq/article-abstract/60/4/677/2633349?redirectedFrom=fulltext)
+- [Reconsidering Regime Type and Growth: Lies, Dictatorships, and Statistics (2015)](https://academic.oup.com/isq/article-abstract/59/2/223/1788378?redirectedFrom=fulltext)
 
-# Alternatives to the State
