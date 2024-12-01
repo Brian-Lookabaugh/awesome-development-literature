@@ -39,6 +39,7 @@
 - [Evaluating the Legacies of State-Building: Success, Failure, and the Role of Responsibility (2014)](https://academic.oup.com/isq/article-abstract/58/1/174/1831218?redirectedFrom=fulltext)
 - [Rebels, Rivals, and Post-colonial State-Building: Identifying Bellicist Influences on State Extractive Capability (2014)](https://academic.oup.com/isq/article-abstract/58/1/187/1832130?redirectedFrom=fulltext)
 - [War, Economic Development, and Political Development in the Contemporary International System (2010)](https://academic.oup.com/isq/article-abstract/54/1/267/1793781?redirectedFrom=fulltext)
+- [State Building, Interstate and Intrastate Rivalry: A Study of Post-Colonial Developing Country Extractive Efforts, 1975–2000 (2004)](https://academic.oup.com/isq/article-abstract/48/1/53/1796414?redirectedFrom=fulltext)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -72,4 +73,7 @@
 - [Forging then Taming Leviathan: State Capacity, Constraints on Rulers, and Development (2014)](https://academic.oup.com/isq/article-abstract/58/2/380/1791634?redirectedFrom=fulltext)
 - [Modernization vs. Dependency Revisited: Effects of Foreign Direct Investment on Food Security in Less Developed Countries (2011)](https://academic.oup.com/isq/article-abstract/55/1/71/1792431?redirectedFrom=fulltext)
 - [War, Economic Development, and Political Development in the Contemporary International System (2010)](https://academic.oup.com/isq/article-abstract/54/1/267/1793781?redirectedFrom=fulltext)
+- [Students or prisoners: Contrasting approaches to rural economic development (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13449)
+- [Revisiting the nexus between development aid, institutions, and growth: A global evidence (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13417)
+- [Income, Equality, and Economic Development (2021)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ssqu.12908)
 
