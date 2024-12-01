@@ -76,4 +76,7 @@
 - [Students or prisoners: Contrasting approaches to rural economic development (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13449)
 - [Revisiting the nexus between development aid, institutions, and growth: A global evidence (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.13417)
 - [Income, Equality, and Economic Development (2021)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ssqu.12908)
+- [Is Democracy Necessary for Good Governance? (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12712)
+- [Foreign Aid and Inclusive Development: Updated Evidence from Africa, 2005–2012 (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12275)
+- [Democracy, Institutional Maturity, and Economic Development (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12185)
 
