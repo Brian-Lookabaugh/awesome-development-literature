@@ -36,6 +36,9 @@
 - [Achieving Sustainable Development Goal 17? An Empirical Investigation of the Effectiveness of Aid Given to Boost Developing Countries’ Tax Revenue and Capacity (2020)](https://academic.oup.com/isq/article-abstract/64/4/991/5905234?redirectedFrom=fulltext)
 - [What Were the Consequences of Decolonization? (2019)](https://academic.oup.com/isq/article-abstract/63/2/406/5377578?redirectedFrom=fulltext)
 - [Power Sharing and the Rule of Law in the Aftermath of Civil War (2019)](https://academic.oup.com/isq/article/63/3/641/5490304)
+- [Evaluating the Legacies of State-Building: Success, Failure, and the Role of Responsibility (2014)](https://academic.oup.com/isq/article-abstract/58/1/174/1831218?redirectedFrom=fulltext)
+- [Rebels, Rivals, and Post-colonial State-Building: Identifying Bellicist Influences on State Extractive Capability (2014)](https://academic.oup.com/isq/article-abstract/58/1/187/1832130?redirectedFrom=fulltext)
+- [War, Economic Development, and Political Development in the Contemporary International System (2010)](https://academic.oup.com/isq/article-abstract/54/1/267/1793781?redirectedFrom=fulltext)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -66,4 +69,7 @@
 - [What Were the Consequences of Decolonization? (2019)](https://academic.oup.com/isq/article-abstract/63/2/406/5377578?redirectedFrom=fulltext)
 - [Wage Bargaining, Inequality, and the Dutch Disease (2016)](https://academic.oup.com/isq/article-abstract/60/4/677/2633349?redirectedFrom=fulltext)
 - [Reconsidering Regime Type and Growth: Lies, Dictatorships, and Statistics (2015)](https://academic.oup.com/isq/article-abstract/59/2/223/1788378?redirectedFrom=fulltext)
+- [Forging then Taming Leviathan: State Capacity, Constraints on Rulers, and Development (2014)](https://academic.oup.com/isq/article-abstract/58/2/380/1791634?redirectedFrom=fulltext)
+- [Modernization vs. Dependency Revisited: Effects of Foreign Direct Investment on Food Security in Less Developed Countries (2011)](https://academic.oup.com/isq/article-abstract/55/1/71/1792431?redirectedFrom=fulltext)
+- [War, Economic Development, and Political Development in the Contemporary International System (2010)](https://academic.oup.com/isq/article-abstract/54/1/267/1793781?redirectedFrom=fulltext)
 
