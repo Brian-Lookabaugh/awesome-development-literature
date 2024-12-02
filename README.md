@@ -40,6 +40,11 @@
 - [Rebels, Rivals, and Post-colonial State-Building: Identifying Bellicist Influences on State Extractive Capability (2014)](https://academic.oup.com/isq/article-abstract/58/1/187/1832130?redirectedFrom=fulltext)
 - [War, Economic Development, and Political Development in the Contemporary International System (2010)](https://academic.oup.com/isq/article-abstract/54/1/267/1793781?redirectedFrom=fulltext)
 - [State Building, Interstate and Intrastate Rivalry: A Study of Post-Colonial Developing Country Extractive Efforts, 1975–2000 (2004)](https://academic.oup.com/isq/article-abstract/48/1/53/1796414?redirectedFrom=fulltext)
+- [The Reach of the State (2024)](https://journals.sagepub.com/doi/abs/10.1177/00104140231194057)
+- [How Personalist Parties Undermine State Capacity in Democracies (2023)](https://journals.sagepub.com/doi/full/10.1177/00104140231169014)
+- [Oil “Rents” and Political Development: What Do We Really Know About the Curse of Natural Resources? (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211060281)
+- [State-building and the European Union: Markets, War, and Europe's Uneven Political Development (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211047393)
+- [The Lay of the Land: Information Capacity and the Modern State (2020)](https://journals.sagepub.com/doi/full/10.1177/0010414019843432)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -79,4 +84,6 @@
 - [Is Democracy Necessary for Good Governance? (2019)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12712)
 - [Foreign Aid and Inclusive Development: Updated Evidence from Africa, 2005–2012 (2017)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12275)
 - [Democracy, Institutional Maturity, and Economic Development (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12185)
+- [The Persistence of Rural Underdevelopment: Evidence from Land Reform in Italy (2023)](https://journals.sagepub.com/doi/full/10.1177/00104140221089653)
+- [Imperial Rule and Long-Run Development: Evidence on the Role of Human Capital in Ottoman Europe (2022)](https://journals.sagepub.com/doi/full/10.1177/00104140211060283)
 
