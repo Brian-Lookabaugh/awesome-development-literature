@@ -86,4 +86,8 @@
 - [Democracy, Institutional Maturity, and Economic Development (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12185)
 - [The Persistence of Rural Underdevelopment: Evidence from Land Reform in Italy (2023)](https://journals.sagepub.com/doi/full/10.1177/00104140221089653)
 - [Imperial Rule and Long-Run Development: Evidence on the Role of Human Capital in Ottoman Europe (2022)](https://journals.sagepub.com/doi/full/10.1177/00104140211060283)
+- [The Protestant Ethic Reexamined: Calvinism and Industrialization (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414019830721)
+- [Land, State Capacity, and Colonialism: Evidence From India (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018758759)
+- [Executive Constraint, Political Stability, and Economic Growth (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017710254)
+- [Electoral Authoritarianism and Human Development (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414015582051)
 
