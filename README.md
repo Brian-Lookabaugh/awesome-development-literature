@@ -90,4 +90,5 @@
 - [Land, State Capacity, and Colonialism: Evidence From India (2019)](https://journals.sagepub.com/doi/abs/10.1177/0010414018758759)
 - [Executive Constraint, Political Stability, and Economic Growth (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017710254)
 - [Electoral Authoritarianism and Human Development (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414015582051)
+- [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
 
