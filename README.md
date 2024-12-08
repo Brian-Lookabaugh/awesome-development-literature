@@ -45,6 +45,11 @@
 - [Oil “Rents” and Political Development: What Do We Really Know About the Curse of Natural Resources? (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211060281)
 - [State-building and the European Union: Markets, War, and Europe's Uneven Political Development (2022)](https://journals.sagepub.com/doi/abs/10.1177/00104140211047393)
 - [The Lay of the Land: Information Capacity and the Modern State (2020)](https://journals.sagepub.com/doi/full/10.1177/0010414019843432)
+- [Why the West Became Wild Informal Governance with Incomplete Networks (2017)](https://www.cambridge.org/core/journals/world-politics/article/abs/why-the-west-became-wild/68E0678820CDCA263875F45DAB9F05EC)
+- [National Design and State Building in Sub-Saharan Africa (2009)](https://www.cambridge.org/core/journals/world-politics/article/abs/national-design-and-state-building-in-subsaharan-africa/E9BD91FC007EB7FF35D88020D42C806E)
+- [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania (2004)](https://www.cambridge.org/core/journals/world-politics/article/abs/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/52084B8764CA95675A2FFCB28ECF1450)
+- [Modernization in Historical Perspective: The Case of Imperial Germany (2001)](https://www.cambridge.org/core/journals/world-politics/article/abs/modernization-in-historical-perspective-the-case-of-imperial-germany/3C51B350C6D7DD6AEEA630FFB7A3AEB7)
+- [Contingent Democrats: Industrialists, Labor, and Democratization in Late-Developing Countries (2000)](https://www.cambridge.org/core/journals/world-politics/article/abs/contingent-democrats-industrialists-labor-and-democratization-in-latedeveloping-countries/6CF8157909F316ABCC790135135FBE9B)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -91,4 +96,5 @@
 - [Executive Constraint, Political Stability, and Economic Growth (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017710254)
 - [Electoral Authoritarianism and Human Development (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414015582051)
 - [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
+- [Democracy and Economic Growth: A Historical Perspective (2004)](https://www.cambridge.org/core/journals/world-politics/article/abs/democracy-and-economic-growth-a-historical-perspective/1BD38458A835E7F34F9A25191B68ECC7)
 
