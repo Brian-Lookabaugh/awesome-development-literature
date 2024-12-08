@@ -97,4 +97,6 @@
 - [Electoral Authoritarianism and Human Development (2015)](https://journals.sagepub.com/doi/abs/10.1177/0010414015582051)
 - [Lessons from Strange Cases: Democracy, Development, and the Resource Curse in the U.S. States (2008)](https://journals.sagepub.com/doi/abs/10.1177/0010414007313123)
 - [Democracy and Economic Growth: A Historical Perspective (2004)](https://www.cambridge.org/core/journals/world-politics/article/abs/democracy-and-economic-growth-a-historical-perspective/1BD38458A835E7F34F9A25191B68ECC7)
+- [Do multiparty elections improve human development in autocracies? (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1349108)
+- [Are lions democrats? The impact of democratization on economic growth in Africa, 1980–2010 (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.930441)
 
