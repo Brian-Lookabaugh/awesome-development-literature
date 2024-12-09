@@ -50,6 +50,7 @@
 - [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania (2004)](https://www.cambridge.org/core/journals/world-politics/article/abs/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/52084B8764CA95675A2FFCB28ECF1450)
 - [Modernization in Historical Perspective: The Case of Imperial Germany (2001)](https://www.cambridge.org/core/journals/world-politics/article/abs/modernization-in-historical-perspective-the-case-of-imperial-germany/3C51B350C6D7DD6AEEA630FFB7A3AEB7)
 - [Contingent Democrats: Industrialists, Labor, and Democratization in Late-Developing Countries (2000)](https://www.cambridge.org/core/journals/world-politics/article/abs/contingent-democrats-industrialists-labor-and-democratization-in-latedeveloping-countries/6CF8157909F316ABCC790135135FBE9B)
+- [Exploring the relationship between infrastructural and coercive state capacity (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960207)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -99,4 +100,5 @@
 - [Democracy and Economic Growth: A Historical Perspective (2004)](https://www.cambridge.org/core/journals/world-politics/article/abs/democracy-and-economic-growth-a-historical-perspective/1BD38458A835E7F34F9A25191B68ECC7)
 - [Do multiparty elections improve human development in autocracies? (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1349108)
 - [Are lions democrats? The impact of democratization on economic growth in Africa, 1980–2010 (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.930441)
+- [Regime type and good governance in low and high income states: what is the empirical link? (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.725392)
 
