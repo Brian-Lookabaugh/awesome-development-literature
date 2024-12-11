@@ -51,6 +51,7 @@
 - [Modernization in Historical Perspective: The Case of Imperial Germany (2001)](https://www.cambridge.org/core/journals/world-politics/article/abs/modernization-in-historical-perspective-the-case-of-imperial-germany/3C51B350C6D7DD6AEEA630FFB7A3AEB7)
 - [Contingent Democrats: Industrialists, Labor, and Democratization in Late-Developing Countries (2000)](https://www.cambridge.org/core/journals/world-politics/article/abs/contingent-democrats-industrialists-labor-and-democratization-in-latedeveloping-countries/6CF8157909F316ABCC790135135FBE9B)
 - [Exploring the relationship between infrastructural and coercive state capacity (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.960207)
+- [External Threats, Capacity, and Repression: How the Threat of War Affects Political Development and Physical Integrity Rights (2023)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/external-threats-capacity-and-repression-how-the-threat-of-war-affects-political-development-and-physical-integrity-rights/86BD49D962109C9F584FB97EE52FD283)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
