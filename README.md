@@ -102,4 +102,5 @@
 - [Do multiparty elections improve human development in autocracies? (2018)](https://www.tandfonline.com/doi/full/10.1080/13510347.2017.1349108)
 - [Are lions democrats? The impact of democratization on economic growth in Africa, 1980–2010 (2016)](https://www.tandfonline.com/doi/full/10.1080/13510347.2014.930441)
 - [Regime type and good governance in low and high income states: what is the empirical link? (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.725392)
+- [Foreign Aided: Why Democratization Brings Growth When Democracy Does Not (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/foreign-aided-why-democratization-brings-growth-when-democracy-does-not/864AA3D4474E396D8BCEBDCD83651EC7)
 
