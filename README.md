@@ -110,4 +110,5 @@
 - [Regime type and good governance in low and high income states: what is the empirical link? (2014)](https://www.tandfonline.com/doi/full/10.1080/13510347.2012.725392)
 - [Foreign Aided: Why Democratization Brings Growth When Democracy Does Not (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/foreign-aided-why-democratization-brings-growth-when-democracy-does-not/864AA3D4474E396D8BCEBDCD83651EC7)
 - [The Political Economy of Imperialism, Decolonization and Development (2011)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/political-economy-of-imperialism-decolonization-and-development/12B55BF480BD5AD33215CD1C3020B199)
+- [The impacts of armed conflict on human development: A review of the literature (2025)](https://www.sciencedirect.com/science/article/pii/S0305750X24002766)
 
