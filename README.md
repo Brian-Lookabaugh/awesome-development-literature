@@ -58,6 +58,12 @@
 - [Stopping the Violence but Blocking the Peace: Dilemmas of Foreign-Imposed Nation Building After Ethnic War (2022)](https://www.cambridge.org/core/journals/international-organization/article/abs/stopping-the-violence-but-blocking-the-peace-dilemmas-of-foreignimposed-nation-building-after-ethnic-war/E96AD7B9DD5DE7F598B64DA5244D074F)
 - [Civil War as State-Making: Strategic Governance in Civil War (2018)](https://www.cambridge.org/core/journals/international-organization/article/abs/civil-war-as-statemaking-strategic-governance-in-civil-war/86B9C230BB0F29E0FCE6BF89B4A46860)
 - [The Impact of Holy Land Crusades on State Formation: War Mobilization, Trade Integration, and Political Development in Medieval Europe (2016)](https://www.cambridge.org/core/journals/international-organization/article/abs/impact-of-holy-land-crusades-on-state-formation-war-mobilization-trade-integration-and-political-development-in-medieval-europe/99CD4B614F6EFEBD99EB58F365195A01)
+- [Endogenous State Capacity (2024)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-061621-084709)
+- [Nationalism: What We Know and What We Still Need to Know (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-041719-101841)
+- [Violent Conflict and Political Development Over the Long Run: China Versus Europe (2018)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-050317-064428)
+- [State Building in the Middle East (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051215-023141)
+- [Fascism and Populism: Are They Useful Categories for Comparative Sociological Analysis? (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073018-022351)
+- [Nationalism in Settled Times (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-081715-074412)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -111,4 +117,6 @@
 - [Foreign Aided: Why Democratization Brings Growth When Democracy Does Not (2015)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/foreign-aided-why-democratization-brings-growth-when-democracy-does-not/864AA3D4474E396D8BCEBDCD83651EC7)
 - [The Political Economy of Imperialism, Decolonization and Development (2011)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/political-economy-of-imperialism-decolonization-and-development/12B55BF480BD5AD33215CD1C3020B199)
 - [The impacts of armed conflict on human development: A review of the literature (2025)](https://www.sciencedirect.com/science/article/pii/S0305750X24002766)
+- [Culture, Politics, and Economic Development (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051215-024720)
+- [Theories of the Causes of Poverty (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073018-022550)
 
