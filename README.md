@@ -64,6 +64,7 @@
 - [State Building in the Middle East (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051215-023141)
 - [Fascism and Populism: Are They Useful Categories for Comparative Sociological Analysis? (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073018-022351)
 - [Nationalism in Settled Times (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-081715-074412)
+- [State reach and development in Africa since the 1960s: new data and analysis (2023)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/state-reach-and-development-in-africa-since-the-1960s-new-data-and-analysis/406B7F339C8F4CD0BF319534E7B63556)
 
 # Economic Development
 - [Politicians, Bureaucrats, and Development: Evidence from India (2017)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/politicians-bureaucrats-and-development-evidence-from-india/130F6270702BDE2449BA4902C0FA1804)
@@ -119,4 +120,5 @@
 - [The impacts of armed conflict on human development: A review of the literature (2025)](https://www.sciencedirect.com/science/article/pii/S0305750X24002766)
 - [Culture, Politics, and Economic Development (2017)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051215-024720)
 - [Theories of the Causes of Poverty (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073018-022550)
+- [Democratization and Economic Output in Sub-Saharan Africa (2019)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/democratization-and-economic-output-in-subsaharan-africa/FB5DBC02D3F8302E164BAA8587FD7FCA)
 
